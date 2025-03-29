@@ -57,7 +57,7 @@ Note:
 + antimon2: FP in Julia « SIDE: J »
 + [ほりたみゅ](https://bsky.app/profile/hyrodium.bsky.social): Juliaと3Dプリント (モデリング編)
 + ごまふあざらし: [非英語圏における Julia ユーザのための技術](https://atelierarith.github.io/how2translate_julia_doc/)
-+ dannchu:（タイトルお願いします）
++ [dannchu](https://x.com/dannchu): [大学入試とJulia言語](https://shimizudan.github.io/20250327tokyo-u/327001.html)
 + abap34:（タイトルお願いします、World Ageの話だったような）
 
 ---
